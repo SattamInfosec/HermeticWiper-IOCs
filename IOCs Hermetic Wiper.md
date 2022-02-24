@@ -15,3 +15,8 @@
 #### **a64c3e0522fad787b95bfb6a30c3aed1b5786e69e88e023c062ec7e5cebf4d3e**
 
 #### **4dc13bb83a16d4ff9865a51b3e4d24112327c526c1392e14d56f20d6f4eaf382**
+
+
+## Command Line  
+
+#### cmd.exe /Q /c start c:\stage1.exe 1> \\127.0.0.1\ADMIN$\__[TIMESTAMP] 2>&1
